@@ -12,6 +12,8 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
   ellipse(50,50,100,80);
+  ellipse(96,133,172,138);
+  ellipse(190,200,294,271);
   
 
 }
